@@ -1,8 +1,6 @@
 
 # 🚫 WooCommerce - Disable Add to Cart Temporarily
 
-## 🇬🇧 English
-
 This simple snippet disables the "Add to Cart" buttons on a WooCommerce store and displays a notice to users that ordering is not available for the next 15 days.
 
 ### ✨ Features
@@ -51,7 +49,6 @@ To restore normal functionality, simply remove or comment out this code.
 
 ---
 
-## 🇮🇷 فارسی
 
 این کد ساده باعث می‌شود تا دکمه‌های "افزودن به سبد خرید" در فروشگاه ووکامرس شما غیرفعال شوند و به کاربران پیغام داده شود که امکان ثبت سفارش تا ۱۵ روز آینده وجود ندارد.
 
